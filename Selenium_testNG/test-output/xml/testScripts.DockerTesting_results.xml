@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Amazon"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.796">
+    <properties></properties>
+
+
+
+            <testcase
+                name="navigateToDockerProPage"
+                time="3.758"
+                classname="testScripts.DockerTesting">
+            </testcase>
+            <testcase
+                name="docker_logo_validation"
+                time="0.038"
+                classname="testScripts.DockerTesting">
+            </testcase>
+</testsuite>

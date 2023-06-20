@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Ford Application Testing" >
+
+
+
+    <test name="Docker" >
+        <classes>
+            <class name="testScripts.Print_Links_InReport" />
+        </classes>
+    </test>
+
+    <test name="Google" >
+        <classes>
+            <class name="testScripts.Google_TC001" />
+        </classes>
+    </test>
+
+
+
+</suite>

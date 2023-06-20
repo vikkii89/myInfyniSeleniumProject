@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Google"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.944">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validateGooglePage"
+                time="2.944"
+                classname="testScripts.Google_TC001">
+            </testcase>
+</testsuite>
