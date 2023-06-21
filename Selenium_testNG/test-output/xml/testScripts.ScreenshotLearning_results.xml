@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_testNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.372">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validate_Select_Functionality"
+                time="10.372"
+                classname="testScripts.ScreenshotLearning">
+            </testcase>
+</testsuite>
